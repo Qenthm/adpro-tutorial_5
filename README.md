@@ -4,21 +4,21 @@
 
 ### API Endpoints Performance
 1. `/all-student` Request  
-   ![All Student Before](performance_before_all_student.png)  
+   ![All Student Before](https://media.discordapp.net/attachments/1298350346183381012/1350101980244082833/9533f88a-0e1e-4e63-9923-02b79d16ffb9.png?ex=67d583f3&is=67d43273&hm=34beaf0dd09b18a1ab920d7d0a35021031c47fb0cea1121c292d3bb3e515fbe3&=&format=webp&quality=lossless&width=1910&height=1244)  
    Sample time: ~82000ms
 
 2. `/all-student-name` Request  
-   ![All Student Names Before](performance_before_all_names.png)  
+   ![All Student Names Before](https://media.discordapp.net/attachments/1298350346183381012/1350101979782713375/Screenshot_2025-03-14_at_11.25.20.png?ex=67d583f3&is=67d43273&hm=01e45388b2b7f432a9cc78993e8060f09bcb273f2cf751d9b75b1b8ad55a0f93&=&format=webp&quality=lossless&width=1988&height=1244)  
    Sample time: ~1900ms
 
 3. `/highest-gpa` Request  
-   ![Highest GPA Before](performance_before_highest_gpa.png)  
+   ![Highest GPA Before](https://media.discordapp.net/attachments/1298350346183381012/1350101979296305282/Screenshot_2025-03-14_at_18.35.12.png?ex=67d583f3&is=67d43273&hm=3032cf2c8616b71045720b09abedd84aaae99266d6decce0abfa841a3946b577&=&format=webp&quality=lossless&width=1974&height=1244)  
    Sample time: ~78ms
 
 ### Profiling Logs
-![Log 1](log1.png)
-![Log 2](log2.png)
-![Log 3](log3.png)
+![Log 1](https://media.discordapp.net/attachments/1298350346183381012/1350102138759680021/1af14482-eb32-4d45-88b8-42046d0a1e11.png?ex=67d58419&is=67d43299&hm=a683c0af9c2a5ef31c0ccd48ff22cd3ee99ae100d01eb7ffbdaf0e2b166896b6&=&format=webp&quality=lossless&width=2384&height=1244)
+![Log 2](https://media.discordapp.net/attachments/1298350346183381012/1350102139103608863/5252be89-7717-4475-af48-db4d4b712c86.png?ex=67d58419&is=67d43299&hm=4514d61fa27082ad4b465777abbe12c345e0a094dc7bea1762b90badd7e75be5&=&format=webp&quality=lossless&width=2398&height=1244)
+![Log 3](https://media.discordapp.net/attachments/1298350346183381012/1350102139464323119/dda547bd-74e4-40b1-a89d-fd6f6a9d6f99.png?ex=67d58419&is=67d43299&hm=8074f941bd0b33b56c2a5f2b9228576293d7596f3ed725e1082dc56d67a57357&=&format=webp&quality=lossless&width=2268&height=1244)
 
 ## Performance Analysis
 
